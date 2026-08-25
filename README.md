@@ -1,1 +1,1 @@
-# PuslGraph-AI
+# PulseGraph-AI
